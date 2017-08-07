@@ -25,7 +25,7 @@ SECRET_KEY = ')g$8a=+teangnpu_r=d1w$=00bw#5&r(^(c&&2xl!%8p4a69*='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sriamazingram.pythonanywhere.com']
 
 
 # Application definition
